@@ -8,6 +8,7 @@ email: aubreymcfato@gmail.com
 url: "https://github.com/Aubreymcfato/highlights/tree/gh-pages/"
 images: /assets/images/covers
 
+
 # Blog settings
 paginate: 10
 paginate_path: "/all/page:num/"
@@ -15,6 +16,7 @@ permalink: /book/:title/
 
 # Build settings
 markdown: kramdown
+theme: minima
 sass:
   sass_dir: assets/_sass
   style: compressed
