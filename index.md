@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Browse by book
+title: naviga per libro
 nav: true
 order: 1
 ---

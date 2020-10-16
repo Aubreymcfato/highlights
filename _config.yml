@@ -3,10 +3,10 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: Highlights from books and articles | Melanie Richards
-email: hello@melanie-richards.com
-url: "http://highlights.melanie-richards.com"
-images: /assets/images/content
+title: Citazioni da libri e articoli | Andrea Zanni
+email: aubreymcfato@gmail.com
+url: "http://aubreymcfato.github.io/highlights/"
+images: /assets/images/covers
 
 # Blog settings
 paginate: 10
