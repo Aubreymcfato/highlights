@@ -18,5 +18,5 @@ permalink: /highlights/book/:title/
 markdown: kramdown
 theme: minima
 sass:
-  sass_dir: highlighs/assets/_sass
+  sass_dir: highlights/assets/_sass
   style: compressed
